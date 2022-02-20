@@ -1,7 +1,7 @@
 # Kiva／クラウドファンディングの資金調達額予測 3位解法
 
 
-解法の詳細は[トピック]()に記載しています．  
+解法の詳細は[トピック](https://comp.probspace.com/competitions/kiva2021/discussions/bananabanana-Poste3e093d73691d7602ed9)に記載しています．  
 
 
 ### 必要ライブラリ
